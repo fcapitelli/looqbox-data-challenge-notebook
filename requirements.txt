@@ -9,3 +9,6 @@ yfinance
 requests
 bs4
 plotly
+pymysql
+seaborn
+plotly
