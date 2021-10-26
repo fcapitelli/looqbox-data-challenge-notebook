@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=looqbox-data-challenge.ipynb
+web: voila --debug --port=$PORT --no-browser --enable_nbextensions=True looqbox-data-challenge.ipynb
