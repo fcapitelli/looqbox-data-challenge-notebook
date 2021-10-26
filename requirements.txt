@@ -1,0 +1,11 @@
+voila
+folium
+numpy
+pandas
+ipywidgets
+ipykernel
+matplotlib
+yfinance
+requests
+bs4
+plotly
